@@ -1,0 +1,7 @@
+{
+  "name": "Bar Spike",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
